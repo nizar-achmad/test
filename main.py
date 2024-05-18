@@ -6,3 +6,6 @@ print(calcultae.x)
 
 def foo(x):
   return x
+
+print("hi again")
+print("bye bye")
